@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
-import axios from 'axios';
 import './App.css';
 
 import CityInfo from './components/CityInfo'
@@ -26,7 +25,7 @@ export default class App extends Component {
 
           <Switch>
             <Route exact path='/' component={HomePage} />
-            <Route path='/zip/:zipcode' component={CityInfo} />
+            <Route path='/:zipcode' component={CityInfo} />
           </Switch>
         </div>
       </Router>
