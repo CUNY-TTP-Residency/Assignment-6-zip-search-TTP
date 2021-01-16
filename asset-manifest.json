@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment-6-zip-search-TTP/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/Assignment-6-zip-search-TTP/static/js/main.ee8fcacf.chunk.js",
+    "main.js.map": "/Assignment-6-zip-search-TTP/static/js/main.ee8fcacf.chunk.js.map",
+    "runtime-main.js": "/Assignment-6-zip-search-TTP/static/js/runtime-main.7da11114.js",
+    "runtime-main.js.map": "/Assignment-6-zip-search-TTP/static/js/runtime-main.7da11114.js.map",
+    "static/js/2.7db65994.chunk.js": "/Assignment-6-zip-search-TTP/static/js/2.7db65994.chunk.js",
+    "static/js/2.7db65994.chunk.js.map": "/Assignment-6-zip-search-TTP/static/js/2.7db65994.chunk.js.map",
+    "static/js/3.3b8a620e.chunk.js": "/Assignment-6-zip-search-TTP/static/js/3.3b8a620e.chunk.js",
+    "static/js/3.3b8a620e.chunk.js.map": "/Assignment-6-zip-search-TTP/static/js/3.3b8a620e.chunk.js.map",
+    "index.html": "/Assignment-6-zip-search-TTP/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/Assignment-6-zip-search-TTP/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.7db65994.chunk.js.LICENSE.txt": "/Assignment-6-zip-search-TTP/static/js/2.7db65994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7da11114.js",
+    "static/js/2.7db65994.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.ee8fcacf.chunk.js"
+  ]
+}
