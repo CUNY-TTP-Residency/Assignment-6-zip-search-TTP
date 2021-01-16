@@ -20,7 +20,6 @@ export default class App extends Component {
           <ul>
             <li><Link to='/'>HomePage</Link></li>
           </ul>
-
           <hr />
 
           <Switch>
